@@ -1,0 +1,22 @@
+#app {
+    text-align: center;
+}
+.container {
+    padding-bottom: 40px!important;
+}
+.v-main {
+    background-color: cadetblue;
+}
+#loader {
+    z-index:1000;
+    top:25%;
+    margin:auto;
+}
+tbody tr:nth-of-type(odd) {
+    background-color: #ededed;
+}
+
+.background-orange {
+    background-color: #ff9922!important;
+    color:white!important;
+}
